@@ -1,5 +1,5 @@
 ---
-title: Cloudflare?
+title: Cloudflare pages hosting
 ---
 
 Cloudflare or the scummiest company ever provides some stuff for cheap.

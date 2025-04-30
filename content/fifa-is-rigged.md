@@ -1,6 +1,6 @@
 ---
 title: Fifa is rigged right down to the fundamentals
-draft: true
+draft: false
 ---
 
 How many times has it happened that you're playing a game of FIFA in the recent past that the useless game just stops working the way it is supposed to.
