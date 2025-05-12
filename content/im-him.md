@@ -10,7 +10,4 @@ I AM HIM!
 
 ![bokuto and i are the main characters in this world](.resources/images/Bokuto_s4-e9-1.webp "Bokuto")
 
-
-![.resources/images/Bokuto_s4-e9-1.webp](bokuto and i are the main characters in this world)
-
-This is testing
+Absolute Aura
