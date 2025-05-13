@@ -1,5 +1,7 @@
 ---
-title: I'm Him, It is me. I am Bokuto and I am going to win it all
+title: [Testing]: IIT BHU case study citi bank rebrand competition resources test upload
+draft: true
+published: false
 ---
 
 
@@ -34,12 +36,12 @@ This is about  2004, Citigroup, the largest U.S. bank holding company, faced pre
 
 
 
-## notes: 
+## notes:
 
-TODO: 
+TODO:
 
-1. Understanding intranet ux philosphy and how it plays a role in higher internal productivity, efficiency and other metrics. 
+1. Understanding intranet ux philosphy and how it plays a role in higher internal productivity, efficiency and other metrics.
 https://www.nngroup.com/reports/intranet-design-annual-2020/
-Key reference: Barclays https://home.barclays. Really good design language. good contrast. appealing. 
+Key reference: Barclays https://home.barclays. Really good design language. good contrast. appealing.
 
-2. 
+2.
