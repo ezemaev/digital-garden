@@ -1,5 +1,5 @@
 ---
-title: [Testing]: IIT BHU case study citi bank rebrand competition resources test upload
+title: "[Testing]: IIT BHU case study citi bank rebrand competition resources test upload"
 draft: true
 published: false
 ---
