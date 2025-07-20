@@ -1,7 +1,7 @@
 ---
 title: "I am an Artist"
-# draft: true
-# published: false
+draft: true
+published: false
 ---
 
 I am an artist
